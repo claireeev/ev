@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Morgen//Calendar Link Generator//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1775495653950-nwd9aalgq@morgen.so
+DTSTAMP:20260406T171413Z
+DTSTART;TZID=America/Los_Angeles:20260619T170000
+DTEND;TZID=America/Los_Angeles:20260619T200000
+SUMMARY:Eudemian Woodside Circle 2026
+DESCRIPTION:https://www.eudemian.vc/events/woodside-circle-2026
+LOCATION:980 Runnymede Rd  Woodside\, California 94062
+END:VEVENT
+END:VCALENDAR
