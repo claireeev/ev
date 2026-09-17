@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Eudemian Ventures//Vienna Circle 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20260914T000000-viennacircle2026@eudemian.vc
+DTSTAMP:20260916T120000Z
+DTSTART;TZID=Europe/Vienna:20261014T180000
+DTEND;TZID=Europe/Vienna:20261014T210000
+SUMMARY:Eudemian Vienna Circle 2026
+DESCRIPTION:https://www.eudemian.vc/events/vienna-circle-2026
+LOCATION:Austro-American Society\, Stallburggasse 2\, 1010 Vienna
+END:VEVENT
+END:VCALENDAR
